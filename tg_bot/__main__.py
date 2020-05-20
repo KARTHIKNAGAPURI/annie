@@ -33,7 +33,7 @@ Hello    {}, My Name Is {} !
 I am a group management bot With Some Special Features.
 To add me to your group click ["HERE"](t.me/googleboy_06bot?startgroup=botstart)
 You can find my list of available commands with /help.
- 
+created by @GoogleboY_06
 See [Basic Configuration Checklist](t.me/Anienews/3) on how to secure your group.
 our official channel is at @feedbuzzme. Support Group @feedbuzzme_chat
 
@@ -147,7 +147,7 @@ def start(bot: Bot, update: Update, args: List[str]):
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="ADD ME TO YOUR GROUP",
-                                                                       url="t.me/{}?startgroup=true".format(bot.username))]]))
+                                                                       url="t.me/googleboy_06bot?startgroup=true".format(bot.username))]]))
 
 
     else:
