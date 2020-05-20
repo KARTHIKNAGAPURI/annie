@@ -30,12 +30,12 @@ PM_START_TEXT = """
 
 Hello    {}, My Name Is {} !
 
-I am a group management bot With Some Special Features.
+I am a group management bot With Powerful Special Features.
 To add me to your group click ["HERE"](t.me/googleboy_06bot?startgroup=botstart)
 You can find my list of available commands with /help.
-created by @GoogleboY_06
-See [Basic Configuration Checklist](t.me/Anienews/3) on how to secure your group.
-our official channel is at @feedbuzzme. Support Group @feedbuzzme_chat
+I'm managed [Google boY](https://t.me/GoogleboY_06)
+Our official channel [Feedbuzzme](https://t.me/feedbuzzme)
+Google boY Support Group [Feedbuzz chat Group](https://t.me/feedbuzzme_chat)
 
 
 """
