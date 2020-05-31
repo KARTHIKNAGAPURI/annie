@@ -23,7 +23,6 @@ def lyrics(bot: Bot, update: Update, args):
             if song.lyrics:
                 reply = song.format()
                 
-			info = '*{0}* \nUploaded by @feedbuzzme'.format(payload['fulltitle'])
             else:
                 reply = "Couldn't find any lyrics for that song!"
         else:
