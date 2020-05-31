@@ -22,7 +22,7 @@ def wiki(bot: Bot, update: Update, args):
     summary = '{} <a href="{}">more</a>'
     update.message.reply_text(summary.format(wikipedia.summary(reply, sentences=3), wikipedia.page(reply).url))
 
-			info = '*{0}* \njoin for more @feedbuzzme'.format(payload['fulltitle'])
+		
 		
 __help__ = """
  - /wiki text: Returns search from wikipedia for the input text
