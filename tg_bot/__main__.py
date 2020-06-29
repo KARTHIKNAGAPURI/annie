@@ -33,9 +33,9 @@ Hello    {}, My Name Is {} !
 I am a group management bot With Powerful Special Features.
 To add me to your group click ["HERE"](t.me/googleboy_06bot?startgroup=botstart)
 You can find my list of available commands with /help.
-I'm managed [Google boY](https://t.me/GoogleboY_06)
+I'm managed [Mr_GoogleboY](https://t.me/mr_googleboy)
 Our official channel [Feedbuzzme](https://t.me/feedbuzzme)
-Google boY Support Group [Feedbuzz chat Group](https://t.me/feedbuzzme_chat)
+Support Group [Feedbuzz chat Group](https://t.me/feedbuzzme_chat)
 
 
 """
